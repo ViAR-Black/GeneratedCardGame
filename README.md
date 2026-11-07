@@ -1,0 +1,2 @@
+# GeneratedCardGame
+Разработка казино игры
